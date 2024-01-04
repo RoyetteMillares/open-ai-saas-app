@@ -41,6 +41,9 @@ export const LandingHero = () => {
             <div className="text-zinc-400 text-xs md:text-sm font-normal">
                 No credit card required.
             </div>
+              <div className="text-zinc-400 text-xs md:text-sm font-normal">
+                Warnin website is slow because im running on free host also the api this is for testing only
+            </div>
         </div>
     );
 };
